@@ -467,4 +467,5 @@ onUpgrade:
 https://mrraybox.blogspot.com/2017/01/android-sqlite-onupgrade.html
 https://ithelp.ithome.com.tw/articles/10188563
 SQL資料型態:
+https://codingboy.pixnet.net/blog/post/26919164
 PHP+MySQL 快速入門(滄海)
